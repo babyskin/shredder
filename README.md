@@ -1,7 +1,7 @@
 # Shredder en Assembler x86_64
 
 <p align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/e59d3161-4cc1-4103-b741-7e789cbbe41b)" alt="jeanjass-honolulu"/>
+  <img width="1000" src="https://github.com/user-attachments/assets/e59d3161-4cc1-4103-b741-7e789cbbe41b" alt="jeanjass-honolulu"/>
 </p>
 
 `L'effaceur` est un programme asm qui permet d'écraser un fichier en le rendant illisible avant de supprimer son contenu.  
